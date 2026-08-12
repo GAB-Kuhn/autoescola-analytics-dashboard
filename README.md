@@ -18,13 +18,15 @@ Monitoramento de custos operacionais por veículo e modelo.
  - Data Prep & Modelagem: Power Query 
  - Visualização: Power BI
 
-<img width="1423" height="791" alt="Captura de tela 2026-08-01 164607" src="https://github.com/user-attachments/assets/e40c6900-48e0-4bf6-b8e5-df00d23d8303" />
+<img width="1436" height="812" alt="Alunos" src="https://github.com/user-attachments/assets/10a0978b-d83f-45d3-8cbb-47c811c9f065" />
 
 
-<img width="1425" height="789" alt="Captura de tela 2026-08-01 164557" src="https://github.com/user-attachments/assets/a123b957-21a8-4364-b0bb-f99de175362a" />
+
+<img width="1431" height="801" alt="Frota" src="https://github.com/user-attachments/assets/acacc795-a471-4339-b4d1-762670de9801" />
 
 
-<img width="1283" height="721" alt="Captura de tela 2026-08-01 164545" src="https://github.com/user-attachments/assets/b82c6596-0fd3-4b01-ab29-27ab23024305" />
+<img width="1279" height="724" alt="Desempenho" src="https://github.com/user-attachments/assets/8e55ed26-8975-45ac-a589-fecde815d374" />
+
 
 
 
