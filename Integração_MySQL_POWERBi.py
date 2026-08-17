@@ -1,11 +1,11 @@
 import pandas as pd
 from sqlalchemy import create_engine
 
-USUARIO_MYSQL = 'root'         
-SENHA_MYSQL   = 'admin123'     
-HOST_MYSQL    = 'localhost'     
-PORTA_MYSQL   = '3306'          
-BANCO_MYSQL   = 'autoescola_db' 
+USUARIO_MYSQL =         
+SENHA_MYSQL   =     
+HOST_MYSQL    =  
+PORTA_MYSQL   =           
+BANCO_MYSQL   = 
 
 string_conexao = f"mysql+pymysql://{USUARIO_MYSQL}:{SENHA_MYSQL}@{HOST_MYSQL}:{PORTA_MYSQL}/{BANCO_MYSQL}"
 engine = create_engine(string_conexao)
