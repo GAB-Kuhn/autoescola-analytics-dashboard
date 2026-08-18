@@ -18,6 +18,8 @@ Monitoramento de custos operacionais por veículo e modelo.
  - Modelagem: Power Query 
  - Visualização: Power BI
 
+---
+
 <img width="1436" height="812" alt="Alunos" src="https://github.com/user-attachments/assets/10a0978b-d83f-45d3-8cbb-47c811c9f065" />
 
 
